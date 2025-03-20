@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#CSV Sources
+notebook/data/Crime_Data_from_2020_to_Present.csv
+src/artifacts/*.csv
