@@ -2,5 +2,10 @@ pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
+xgboost
+tensorflow
+keras
+
 -e .
 

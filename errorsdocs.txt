@@ -1,0 +1,9 @@
+bro looks like the entire date columns is empty we mau need to work it again.
+Look for all combinations
+#------------------------------
+Feature eng has worked now and we have split the data succesfully 
+now we move to model training --> next step
+we try xgboost,randomforestregressor,SARIMAX,ARIMA and then move further ahead.
+#------------------------------
+do one thing as well just look at your version of feature 
+and compare them to the updated latest version to better understand mistakes.
