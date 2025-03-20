@@ -176,3 +176,7 @@ cython_debug/
 #CSV Sources
 notebook/data/Crime_Data_from_2020_to_Present.csv
 src/artifacts/*.csv
+
+# Ignore macOS system files
+.DS_Store
+src/artifacts/.DS_Store
